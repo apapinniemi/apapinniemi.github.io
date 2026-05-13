@@ -22,6 +22,6 @@ Tutkimuksessa tunnistettiin useita kriittisiä tekijöitä, jotka vaikuttavat ta
 ## Johtopäätökset
 Tarinankerronta ei ole vain tiedon jakamista, vaan se on dynaaminen ja interaktiivinen prosessi. Sisällöntuottajat, jotka hyödyntävät personallisia kokemuksiaan ja yhdistävät ne ajankohtaisiin ilmiöihin, onnistuvat rakentamaan vahvemman ja uskollisemman seuraajakunnan.
 
-Lähteet:
+### Lähteet:
 Pertiwi, E. & Sanusi, A. P. 2023. Storytelling in the Digital Age: Examining the Role and Effectiveness in Communication Strategies of Social Media Content Creators. Al-Balagh: Media and Islamic Communication, Vol. 4, No. 1, s. 1–24. 
 Saatavissa: https://pdfs.semanticscholar.org/b3d4/2cc26c553986ca20be9e2e539f7a35ccef50.pdf [Viitattu 13.5.2026].
